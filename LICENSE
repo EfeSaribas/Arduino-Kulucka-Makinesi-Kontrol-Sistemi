@@ -1,0 +1,123 @@
+Kuluçka Makinesi Kontrol Sistemi - Özel Lisans
+================================================================
+
+Copyright (c) 2025 Efe Sarıbaş
+
+Bu yazılım aşağıdaki şartlar altında lisanslanmıştır:
+
+1. KULLANIM ŞARTLARI
+   ✅ Kişisel kullanım - Tamamen ücretsiz ve serbest
+   ✅ Eğitim amaçlı kullanım - Okullar, üniversiteler
+   ✅ Araştırma amaçlı kullanım - Akademik çalışmalar
+   ✅ Açık kaynak projeler - Diğer açık kaynak projelerde kullanım
+   ⚠️ Ticari kullanım - Özel izin gerektirir (aşağıya bakınız)
+
+2. DEĞİŞTİRME VE DAĞITMA
+   ✅ Kaynak kodu değiştirebilirsiniz
+   ✅ Değiştirilmiş versiyonu paylaşabilirsiniz
+   ⚠️ ŞART: Değişikliklerinizi orijinal yazara bildirmelisiniz
+   ⚠️ ŞART: Değiştirilmiş versiyon da aynı lisans altında olmalıdır
+   ⚠️ ŞART: Yaptığınız değişiklikleri açıkça belirtmelisiniz
+
+3. BİLDİRİM YÜKÜMLÜLÜĞÜ
+   Eğer bu yazılımı değiştirip dağıtıyorsanız:
+   
+   a) Aşağıdaki bilgileri içeren bir dosya (CHANGES.md) eklemelisiniz:
+      - Hangi dosyaları değiştirdiniz
+      - Ne tür değişiklikler yaptınız
+      - Değişiklik tarihi
+      - İletişim bilgileriniz
+   
+   b) Değişiklikleri GitHub üzerinden pull request olarak 
+      orijinal yazara göndermelisiniz VEYA e-posta ile bildirmelisiniz:
+      
+      E-posta: efesaribas909@gmail.com
+      GitHub: https://github.com/EfeSaribas
+
+4. TİCARİ KULLANIM İÇİN İZİN
+   Ticari kullanım için özel izin gereklidir:
+   
+   - Küçük işletmeler (1-10 makine): 
+     Ücretsiz veya sembolik ücretle izin verilebilir
+   
+   - Orta ölçekli işletmeler (11-50 makine): 
+     Makul ücret karşılığı lisans anlaşması yapılabilir
+   
+   - Büyük işletmeler (50+ makine): 
+     Özel lisans anlaşması gerektirir
+   
+   İletişim: efesaribas909@gmail.com
+   
+   NOT: Hobici/maker topluluğu ticari olmayan satışlar için izin 
+   gerektirir ancak genellikle ücretsiz verilir.
+
+5. ATIF GEREKSİNİMİ
+   Bu yazılımı kullanıyorsanız:
+   
+   ✅ README veya ürün dokümantasyonunda şu metni ekleyin:
+      "Bu proje Efe Sarıbaş tarafından geliştirilen Kuluçka Makinesi 
+       Kontrol Sistemi'ni kullanmaktadır."
+   
+   ✅ Orijinal lisans metnini koruyun
+   ✅ Telif hakkı bildirimini kaldırmayın
+
+6. GARANTİ REDDİ
+   BU YAZILIM "OLDUĞU GİBİ" SAĞLANMAKTADIR. 
+   
+   HİÇBİR AÇIK VEYA ZIMNİ GARANTİ VERİLMEZ. BUNA DAHİL ANCAK BUNLARLA 
+   SINIRLI OLMAMAK ÜZERE, TİCARİ ELVERİŞLİLİK, BELİRLİ BİR AMACA UYGUNLUK 
+   VE İHLAL ETMEME GARANTİLERİ DAHİLDİR.
+   
+   YAZILIM KULLANIMDAN VEYA YAZILIMIN PERFORMANSINDAN KAYNAKLANAN HİÇBİR 
+   DOĞRUDAN, DOLAYLI, ARIZİ, ÖZEL, CEZAI VEYA SONUÇ OLARAK ORTAYA ÇIKAN 
+   ZARARDAN (SINIRLI OLMAMAK ÜZERE, İKAME MAL VEYA HİZMET TEMİNİ, 
+   KULLANILAMAMA, VERİ VEYA KAR KAYBI VEYA İŞ KESİNTİSİ DAHİL) YAZAR 
+   SORUMLU TUTULAMAZ.
+   
+   CANLI HAYVANLAR ÜZERİNDE KULLANIM TAMAMEN KULLANICININ RİSKİNDEDİR.
+
+7. PATENT VE FİKRİ MÜLKİYET
+   Bu lisans size herhangi bir patent hakkı vermez.
+   Tüm fikri mülkiyet hakları Efe Sarıbaş'a aittir.
+   
+   Algoritmalar, sistem tasarımı ve yazılım mimarisi telif hakkı 
+   koruması altındadır.
+
+8. LİSANS İHLALİ
+   Bu şartları ihlal ederseniz:
+   - Lisans hakları otomatik olarak iptal edilir
+   - Yazılımı kullanmayı durdurmalısınız
+   - Yasal yollara başvurulabilir
+   - Değişikliklerinizi geri çekmeniz istenebilir
+   - Telif hakkı ihlali nedeniyle tazminat talep edilebilir
+
+9. ÖZEL DURUMLAR
+   - Hayır kurumları: Ticari olmayan kullanım için ücretsiz
+   - Açık kaynak donanım projeleri: Serbest kullanım
+   - Maker topluluğu: Kişisel projeler için serbest
+   - Üniversite projeleri: Tam destek ve ücretsiz kullanım
+   - Araştırma kurumları: Akademik kullanım için ücretsiz
+
+10. LİSANS VERSİYONU VE GÜNCELLEMELER
+    Bu lisansın mevcut versiyonu 1.0'dır.
+    
+    Lisans güncellenebilir ancak mevcut kullanıcılar eski versiyonu 
+    kullanmaya devam edebilir veya yeni versiyona geçebilir.
+
+İLETİŞİM
+--------
+Genel sorular: efesaribas909@gmail.com
+GitHub profil: https://github.com/EfeSaribas
+Ticari lisans talebi: efesaribas909@gmail.com (konu: Ticari Lisans)
+
+Değişiklik bildirimi: 
+- GitHub Pull Request: https://github.com/EfeSaribas/[proje-adi]
+- E-posta: efesaribas909@gmail.com
+
+TEŞEKKÜRLER
+-----------
+Bu projeyi kullanarak veya geliştirerek açık kaynak topluluğuna 
+katkıda bulunduğunuz için teşekkür ederiz!
+
+Son güncelleme: Ocak 2025
+Lisans versiyonu: 1.0
