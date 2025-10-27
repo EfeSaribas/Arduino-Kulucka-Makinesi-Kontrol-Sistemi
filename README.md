@@ -46,9 +46,9 @@ Arduino tabanlı, PlatformIO ile geliştirilmiş profesyonel (Şu anlık sadece 
 
 ```
 incubator-controller/
-├── platformio.ini          # PlatformIO yapılandırma dosyası
-├── include/                # Header dosyaları
-│   ├── Configuration.h     # Tüm yapılandırma sabitleri
+├── platformio.ini         # PlatformIO yapılandırma dosyası
+├── include/               # Header dosyaları
+│   ├── Configuration.h    # Tüm yapılandırma sabitleri
 │   ├── Globals.h          # Global değişkenler ve objeler
 │   ├── Pins.h             # Pin tanımlamaları
 │   ├── Sensors.h          # Sensör fonksiyonları
@@ -59,7 +59,7 @@ incubator-controller/
 │   ├── Encoder.h          # Rotary encoder ve buton
 │   ├── Safety.h           # Güvenlik kontrolleri
 │   └── SerialDebug.h      # Seri port debug
-├── src/                    # Kaynak dosyaları
+├── src/                   # Kaynak dosyaları
 │   ├── main.cpp           # Ana program
 │   ├── Globals.cpp        # Global değişken tanımlamaları
 │   ├── Pins.cpp           # Pin başlatma
