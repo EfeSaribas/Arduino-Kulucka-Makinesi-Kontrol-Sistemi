@@ -339,42 +339,8 @@ Serial monitörde her saniye sistem durumu yazdırılır:
 4. **Nem + Elektrik**: Su ile elektrik temasını önleyin
 5. **Ventilasyon**: Elektronik kutuyu havalandırın
 6. **Yedek Güç**: Kesinti anında UPS kullanın
-
-## 📄 Lisans
-
-Bu proje **özel bir lisans** altında dağıtılmaktadır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-### Özet:
-- ✅ **Kişisel kullanım**: Tamamen ücretsiz
-- ✅ **Eğitim/Araştırma**: Serbestçe kullanılabilir
-- ✅ **Açık kaynak projeler**: Kullanılabilir
-- ⚠️ **Ticari kullanım**: Özel izin gerektirir (küçük işletmeler için uygun fiyat)
-- ⚠️ **Değişiklik bildirim zorunluluğu**: Değişikliklerinizi bildirmelisiniz
-
-### Değişiklik Yapmak İstiyorsanız:
-1. Değişikliklerinizi yapın
-2. `CHANGES.md` dosyası oluşturun ([şablon](CHANGES.md))
-3. Pull request gönderin VEYA e-posta ile bildirin
-4. Aynı lisansı koruyun
-
-### Ticari Kullanım:
-Ticari kullanım için lütfen iletişime geçin:
-- **E-posta**: efesaribas909@gmail.com
-- **Konu**: Ticari Lisans Talebi
-- Küçük işletmeler için uygun fiyatlandırma mevcuttur
-
-### İletişim:
-- **GitHub**: https://github.com/EfeSaribas
-- **E-posta**: efesaribas909@gmail.com
-
----
-
-**Geliştirici**: Efe Sarıbaş
-**Son Güncelleme**: Ocak 2025
-**Versiyon**: 2.0 (Modüler PlatformIO)
-**Lisans**: Özel - İzinli Ticari Kullanım
-
 ```
+
 incubator-controller/
 ├── platformio.ini          # PlatformIO yapılandırma dosyası
 ├── include/                # Header dosyaları
