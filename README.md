@@ -567,8 +567,3 @@ Ticari kullanım için lütfen iletişime geçin:
 **Son Güncelleme**: Ocak 2025
 **Versiyon**: 2.0 (Modüler PlatformIO)
 **Lisans**: Özel - İzinli Ticari Kullanım
-
----
-
-**Son Güncelleme**: 2025
-**Versiyon**: 2.0 (Modüler PlatformIO)
