@@ -14,6 +14,7 @@ extern const uint8_t clk;
 extern const uint8_t kapakSensor;
 
 // Çıkış Pinleri
+extern const uint8_t buzzer;
 extern const uint8_t sirkulasyonFan;
 extern const uint8_t viyol;
 extern const uint8_t nemSensorYenidenBaslatma;
