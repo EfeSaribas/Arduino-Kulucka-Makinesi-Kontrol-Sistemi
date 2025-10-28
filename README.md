@@ -519,8 +519,8 @@ Ana Ekran
 
 ## 💾 Bellek Kullanımı
 
-- **Program**: ~25KB (Arduino Mega için ideal)
-- **RAM**: ~860B global değişkenler
+- **Program**: ~26KB (Arduino Uno için ideal)
+- **RAM**: ~900B global değişkenler
 - **EEPROM**: 73 byte kullanılıyor
 
 ## 🚀 Hızlı Başlangıç
