@@ -11,6 +11,7 @@ const uint8_t clk = PIN_CLK;
 const uint8_t kapakSensor = PIN_KAPAK_SENSOR;
 
 // Çıkış Pinleri
+const uint8_t buzzer = PIN_BUZZER;
 const uint8_t sirkulasyonFan = PIN_SIRKULASYON_FAN;
 const uint8_t viyol = PIN_VIYOL;
 const uint8_t nemSensorYenidenBaslatma = PIN_NEM_RESET;
@@ -32,6 +33,7 @@ void setupPins() {
   pinMode(kapakSensor, INPUT);
   
   // Çıkış pinleri
+  pinMode(buzzer, OUTPUT);
   pinMode(egzozFan, OUTPUT);
   pinMode(viyol, OUTPUT);
   pinMode(rezistans, OUTPUT);
@@ -42,6 +44,7 @@ void setupPins() {
   // Başlangıç durumları
   analogWrite(sirkulasyonFan, LOW);
   digitalWrite(viyol, LOW);
+  digitalWrite(buzzer, LOW);
   digitalWrite(egzozFan, LOW);
   digitalWrite(rezistans, LOW);
   digitalWrite(nemlendirici, HIGH);  // Aktif LOW
