@@ -11,6 +11,7 @@
 #define PIN_DT                  A1
 #define PIN_CLK                 A2
 #define PIN_KAPAK_SENSOR        A3
+#define PIN_BUZZER              4
 #define PIN_SIRKULASYON_FAN     5
 #define PIN_VIYOL               6
 #define PIN_NEM_RESET           7
@@ -35,6 +36,11 @@
 #ifndef LCD_ROWS
   #define LCD_ROWS 4
 #endif
+// ===========================================================================
+// ======================== Buzzer Frekansı ==================================
+// ===========================================================================
+
+#define BUZZER_FREKANS 2400 // Hz
 
 // ===========================================================================
 // ======================== Zamanlama Sabitleri ==============================
@@ -51,6 +57,9 @@
 #define DHT_OKUMA_SURESI            2000    // ms
 #define SERIAL_MONITOR_SURESI       1000    // ms
 #define EEPROM_GUNCELLEME_SURESI    300000  // ms (5 dakika)
+#define BUZZER_ACIK_SURESI          150     // ms
+#define BUZZER_KAPALI_SURESI        100     // ms
+#define BUZZER_BEKLEME_SURESI       500     // ms
 
 // ===========================================================================
 // ======================== Sistem Güvenlik Ayarları =========================
@@ -130,6 +139,7 @@
 #define FLAG_SIRKULASYON_FAN    3
 #define FLAG_EGZOZ_FAN          4
 #define FLAG_KAPAK_DURUMU       5
+#define FLAG_ALARM_DURUMU       6
 
 // ===========================================================================
 // ======================== Watchdog Ayarları ================================
