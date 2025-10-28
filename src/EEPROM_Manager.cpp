@@ -49,14 +49,14 @@ void loadEEPROMSettings() {
 
 void eepromFloatDiziYaz(int adres, float* dizi, int uzunluk) {
   byte* ptr = (byte*)dizi;
-  for (int i = 0; i < uzunluk * sizeof(float); i++) {
+  for (size_t i = 0; i < uzunluk * sizeof(float); i++) {
     EEPROM.write(adres + i, ptr[i]);
   }
 }
 
 void eepromFloatDiziOku(int adres, float* dizi, int uzunluk) {
   byte* ptr = (byte*)dizi;
-  for (int i = 0; i < uzunluk * sizeof(float); i++) {
+  for (size_t i = 0; i < uzunluk * sizeof(float); i++) {
     ptr[i] = EEPROM.read(adres + i);
   }
 }
