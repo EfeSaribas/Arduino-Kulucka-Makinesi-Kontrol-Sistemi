@@ -64,6 +64,10 @@ void printFlagStatus() {
   Serial.print(F("Kapak : "));
   Serial.print(bitRead(flags, FLAG_KAPAK_DURUMU) ? F("Kapalı") : F("Açık"));
   Serial.print(F(" | "));
+
+  Serial.print(F("Alarm : "));
+  Serial.print(bitRead(flags, FLAG_ALARM_DURUMU) ? F("Açık") : F("Kapalı"));
+  Serial.print(F(" | "));
 }
 
 void printIncubatorInfo() {
